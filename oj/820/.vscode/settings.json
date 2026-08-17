@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "__tree": "cpp",
+    "map": "cpp",
+    "__config_site": "cpp",
+    "set": "cpp"
+  }
+}
