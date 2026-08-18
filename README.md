@@ -6,6 +6,8 @@ Strangely, I don't know why I like data structures so much. I really enjoy solvi
 
 There is also an `oj` folder here, which contains my submissions from my university's competitive programming site (I used it back when I was taking my data structures courses). 
 
+Oh yeah, I'm definitely still learning, but I'm putting in the effort to get better at problem-solving every day!
+
 Right now, not all of my solution files have been moved from my LeetCode, HackerRank, or Codewars accounts to this repository. I'll move the rest over later when I have the time!
 
 ## My Stats:
