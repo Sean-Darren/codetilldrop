@@ -8,9 +8,15 @@ There is also an `oj` folder here, which contains my submissions from my univers
 
 Right now, not all of my solution files have been moved from my LeetCode, HackerRank, or Codewars accounts to this repository. I'll move the rest over later when I have the time!
 
-# My Stats:
+## My Stats:
+
+### Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/seandarren_?theme=dark&font=Poppins)
 
+### Hackerrank Stats
+![Hackerrank Stats](https://hackerrank-stats.vercel.app/api?username=seandarren37)
+
+### Codewars Stats:
 ![Codewars](https://github.r2v.ch/codewars?user=seandarren&hide_clan=true&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
-![Hackerrank Stats](https://hackerrank-stats.vercel.app/api?username=seandarren37)
+
