@@ -13,7 +13,7 @@ Right now, not all of my solution files have been moved from my LeetCode, Hacker
 ### Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/seandarren_?theme=dark&font=Poppins)
 
-### Hackerrank Stats
+### Hackerrank Stats:
 ![Hackerrank Stats](https://hackerrank-stats.vercel.app/api?username=seandarren37)
 
 ### Codewars Stats:
